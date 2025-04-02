@@ -1,12 +1,12 @@
 <header>
-my pages
+章鱼博客
 </header>
 
-## AndroidStudio-study
+## 安卓开发学习记录
 
 中文测试 
 
-###  about Kotlin
+###  学习基础 Kotlin
 
 - Keep working on your GitHub Pages site... we love seeing what you come up with!
 
