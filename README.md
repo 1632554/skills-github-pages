@@ -6,9 +6,6 @@ my pages
 
 中文测试 
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-
 ###  about Kotlin
 
 - Keep working on your GitHub Pages site... we love seeing what you come up with!
